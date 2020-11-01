@@ -1,1 +1,1 @@
-{"clients" : [ {"id" : 300,"name" : "Ali","age" : "45"}, {"id" : 400,"name" : "Richard","age" : "12"}, {"id" : 600,"name" : "Caty","age" : "30"}] }
+{"clients":[{"id":300,"name":"Ali","age":"45"},{"id":400,"name":"Richard","age":"12"},{"id":600,"name":"Caty","age":"30"}]}
